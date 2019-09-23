@@ -1,0 +1,15 @@
+namespace gesture_recognition;
+
+table kinect2_frame {
+    width: uint32;
+    height: uint32;
+    bytes_per_pixel: uint32;
+    data: [ubyte];
+    timestamp: uint32;
+    sequence: uint32;
+    exposure: float;
+    gain: float;
+    gamma: float;
+    status : uint32;
+    format : uint32;
+}

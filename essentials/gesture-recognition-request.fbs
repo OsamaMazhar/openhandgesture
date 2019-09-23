@@ -1,0 +1,10 @@
+include "gesture-recognition-kinect2-frame.fbs";
+
+namespace gesture_recognition;
+
+table request_identification {
+    color: kinect2_frame;
+    depth: kinect2_frame;
+}
+
+root_type request_identification;

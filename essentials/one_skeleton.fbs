@@ -1,0 +1,15 @@
+namespace op_skeleton;
+
+struct Point {
+  x:int;
+  y:int;
+  z:int;
+}
+
+table one_skeleton {
+  name: string;
+  coordinates: [Point];
+  number_of_points: int;
+}
+
+root_type one_skeleton;
