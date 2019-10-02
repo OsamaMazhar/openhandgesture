@@ -6,7 +6,7 @@ Description of the project will soon be updated.
 
 ## Citation
 Please cite these papers in your publications if it helps your research:
-
+```
   @article{mazhar2019real,
     title={A real-time human-robot interaction framework with robust background invariant hand gesture detection},
     author={Mazhar, Osama and Navarro, Benjamin and Ramdani, Sofiane and Passama, Robin and Cherubini, Andrea},
@@ -25,7 +25,7 @@ Please cite these papers in your publications if it helps your research:
     year={2018},
     organization={IEEE}
   }
-
+```
 Links to the papers:
 
 - [A real-time human-robot interaction framework with robust background invariant hand gesture detection](https://hal.archives-ouvertes.fr/hal-01823338v2)
